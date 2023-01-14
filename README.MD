@@ -1,0 +1,1 @@
+克隆本项目，然后用'Android Studio'打开ota编译即可
